@@ -1,0 +1,1 @@
+{"name": "H100_S25_I49_LONG", "h_size": 100, "t_steps": 25, "learning_rate": 0.1, "weight_sd": 0.1, "input_text_size": 49, "input_text": "all_letters", "iterations": [0, 100], "loss": [97.29522095878653, 98.63279115237995], "time_total": [0, 1.13548319999245], "ram_usage": [0, 1.17578125], "accuracy": [0.0, 8.0]}
